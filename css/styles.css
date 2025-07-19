@@ -96,7 +96,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.team-item {
+.section-team {
 background-color:  #f4f4fd;
 }
 
@@ -110,7 +110,7 @@ color: #2e2f42;
 text-transform: capitalize;  
 }
 
-.list-section-team {
+.team-item {
 background-color:  #FFFFFF;
 }
 
